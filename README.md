@@ -10,3 +10,5 @@ Just something is going on!
 Update in stage
 
 More updates in working directory
+
+Changes in new branch
